@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @whiskey34
 - 👀 I’m interested in php, html, css and machine learning
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
