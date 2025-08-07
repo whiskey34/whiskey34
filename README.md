@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whiskey34
-- 👀 I’m interested in php, html, css and machine learning
+- 👀 I’m interested in PHP, JS, and Ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me DM via chat on X (@Abank_RnB)
 
