@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @whiskey34
 - 👀 I’m interested in php, html, css and machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me DM via chat on X (@Abank_RnB)
 
 <!---
 whiskey34/whiskey34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
